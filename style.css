@@ -74,7 +74,7 @@ li{
 li:first-child{
 list-style: ;    
 margin-bottom: 10px; /* Optional: add space between list items */
-background-image: url('icon-reaction.svg'); 
+background-image: url('/icon-reaction.svg'); 
 background-size: 16px 16px; /* Set the size of the image */
 background-repeat: no-repeat; /* Ensure the image doesn't repeat */
 padding-left: 20px;
@@ -88,7 +88,7 @@ width: 200px;
 li:nth-child(2){
     list-style: ;    
 margin-bottom: 10px; /* Optional: add space between list items */
-background-image: url('icon-memory.svg'); /* Replace 'path/to/your/image.png' with your image path */
+background-image: url('/icon-memory.svg'); /* Replace 'path/to/your/image.png' with your image path */
 background-size: 16px 16px; /* Set the size of the image */
 background-repeat: no-repeat; /* Ensure the image doesn't repeat */
 padding-left: 20px; /* Add padding to adjust for the image */
@@ -102,7 +102,7 @@ width: 200px;
 li:nth-child(3){
     list-style: ;    
 margin-bottom: 10px; /* Optional: add space between list items */
-background-image: url('icon-verbal.svg'); /* Replace 'path/to/your/image.png' with your image path */
+background-image: url('/icon-verbal.svg'); /* Replace 'path/to/your/image.png' with your image path */
 background-size: 16px 16px; /* Set the size of the image */
 background-repeat: no-repeat; /* Ensure the image doesn't repeat */
 padding-left: 20px; /* Add padding to adjust for the image */
@@ -117,7 +117,7 @@ width: 200px;
 li:nth-child(4){
     list-style: ;    
 margin-bottom: 10px; /* Optional: add space between list items */
-background-image: url('icon-visual.svg'); /* Replace 'path/to/your/image.png' with your image path */
+background-image: url('/icon-visual.svg'); /* Replace 'path/to/your/image.png' with your image path */
 background-size: 16px 16px; /* Set the size of the image */
 background-repeat: no-repeat; /* Ensure the image doesn't repeat */
  /* Add padding to adjust for the image */
